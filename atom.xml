@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ac258.github.io/"/>
-  <updated>2020-04-26T08:20:47.264Z</updated>
+  <updated>2020-04-26T17:07:34.613Z</updated>
   <id>https://ac258.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>凌晨了我基本配置完毕了，完了</title>
+    <link href="https://ac258.github.io/2020/04/27/ling-chen-liao-wo-ji-ben-pei-zhi-wan-bi-liao-wan-liao/"/>
+    <id>https://ac258.github.io/2020/04/27/ling-chen-liao-wo-ji-ben-pei-zhi-wan-bi-liao-wan-liao/</id>
+    <published>2020-04-26T16:44:08.000Z</published>
+    <updated>2020-04-26T17:07:34.613Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;55336859986655233553565222&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="ture" scheme="https://ac258.github.io/tags/ture/"/>
+    
+  </entry>
   
   <entry>
     <title>博客文章不能添加图片</title>
