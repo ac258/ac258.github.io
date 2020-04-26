@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>星屿</title>
   
-  
+  <subtitle>暗夜&amp;可星屿</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ac258.github.io/"/>
