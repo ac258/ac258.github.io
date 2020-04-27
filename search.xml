@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>本博客主要搭建参考大佬名单</title>
+      <link href="/2020/04/27/ben-bo-ke-zhu-yao-da-jian-can-kao-da-lao-ming-dan/"/>
+      <url>/2020/04/27/ben-bo-ke-zhu-yao-da-jian-can-kao-da-lao-ming-dan/</url>
+      
+        <content type="html"><![CDATA[<p>名单都在友情链接里，搭建主要参考的是sitoi,过客励心，闪烁之狐;优化主要参考过客励心，sitoi,以及洪卫</p><p>具体在我的友情链接里。</p><p>最后呢，再次感谢几位大佬分享的教程</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 建站及优化参考文献 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>凌晨了我基本配置完毕了，完了</title>
       <link href="/2020/04/27/ling-chen-liao-wo-ji-ben-pei-zhi-wan-bi-liao-wan-liao/"/>
       <url>/2020/04/27/ling-chen-liao-wo-ji-ben-pei-zhi-wan-bi-liao-wan-liao/</url>
