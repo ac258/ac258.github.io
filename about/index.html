@@ -620,6 +620,40 @@
 
     <div id="aboutme" class="container about-container">
         <div class="card">
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <div class="card-content article-card-content">
+                    <div class="title center-align" data-aos="zoom-in-up">
+                        <i class="fa fa-address-book"></i>&nbsp;&nbsp;个人简历
+                     </div>
+                        <div id="articleContent" data-aos="fade-up">
+                            <script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>
+                        </div>
+                  </div>
+             </div>
+       </div>
+       </div>
+</div>
+</main>
             <div class="card-content">
                 <div class="row">
                     <div class="post-statis col l4 hide-on-med-and-down" data-aos="zoom-in-right">
@@ -970,40 +1004,7 @@
 
                 
 
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <div class="card-content article-card-content">
-                        <div class="title center-align" data-aos="zoom-in-up">
-                            <i class="fa fa-address-book"></i>&nbsp;&nbsp;个人简历
-                         </div>
-                            <div id="articleContent" data-aos="fade-up">
-                                <script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>
-                            </div>
-                      </div>
-                 </div>
-           </div>
-           </div>
-    </div>
-</main>
+
 
 
     <footer class="page-footer bg-color">
