@@ -5,8 +5,8 @@
     
     <entry>
       <title>本博客主要搭建参考大佬名单</title>
-      <link href="/2020/04/27/ben-bo-ke-zhu-yao-da-jian-can-kao-da-lao-ming-dan/"/>
-      <url>/2020/04/27/ben-bo-ke-zhu-yao-da-jian-can-kao-da-lao-ming-dan/</url>
+      <link href="/posts/914f.html"/>
+      <url>/posts/914f.html</url>
       
         <content type="html"><![CDATA[<p>名单都在友情链接里，搭建主要参考的是sitoi,过客励心，闪烁之狐;优化主要参考过客励心，sitoi,以及洪卫</p><p>具体在我的友情链接里。</p><p>最后呢，再次感谢几位大佬分享的教程</p><p><img src="https://gitee.com//ac258/blogimage/raw/master/img/0029.png" alt=""></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
@@ -24,8 +24,8 @@
     
     <entry>
       <title>凌晨了我基本配置完毕了，完了</title>
-      <link href="/2020/04/27/ling-chen-liao-wo-ji-ben-pei-zhi-wan-bi-liao-wan-liao/"/>
-      <url>/2020/04/27/ling-chen-liao-wo-ji-ben-pei-zhi-wan-bi-liao-wan-liao/</url>
+      <link href="/posts/ff9c.html"/>
+      <url>/posts/ff9c.html</url>
       
         <content type="html"><![CDATA[<p>55336859986655233553565222<img src="https://cdn.jsdelivr.net/gh/ac258/blogimage/images/%E7%BE%8E%E4%B8%BD.jpg" alt=""></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
@@ -43,8 +43,8 @@
     
     <entry>
       <title>博客文章不能添加图片</title>
-      <link href="/2020/04/26/bo-ke-wen-zhang-bu-neng-tian-jia-tu-pian/"/>
-      <url>/2020/04/26/bo-ke-wen-zhang-bu-neng-tian-jia-tu-pian/</url>
+      <link href="/posts/30c2.html"/>
+      <url>/posts/30c2.html</url>
       
         <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
@@ -56,8 +56,8 @@
     
     <entry>
       <title>article title</title>
-      <link href="/2020/04/26/article-title/"/>
-      <url>/2020/04/26/article-title/</url>
+      <link href="/posts/b6df.html"/>
+      <url>/posts/b6df.html</url>
       
         <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
@@ -69,8 +69,8 @@
     
     <entry>
       <title>我的第一篇博客文章</title>
-      <link href="/2020/04/26/wo-de-di-yi-pian-bo-ke-wen-zhang/"/>
-      <url>/2020/04/26/wo-de-di-yi-pian-bo-ke-wen-zhang/</url>
+      <link href="/posts/3d22.html"/>
+      <url>/posts/3d22.html</url>
       
         <content type="html"><![CDATA[<p>今天早上起<img src="D:%5CWindows%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%5Cblog%5C%E5%9B%BE%E7%89%87%E6%89%A9%E5%B1%95%5Ctimg.jpg" alt="timg">来，本来是准备优化一下加载速度的，因为那速度实在不敢恭维，但是不知道哪里改错了一下子就打不开了，很着急，但是没用。我就只能卸了重新配置，过程中又再次出错。。。。。。心累</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
@@ -82,8 +82,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2020/04/26/hello-world/"/>
-      <url>/2020/04/26/hello-world/</url>
+      <link href="/posts/3eeb.html"/>
+      <url>/posts/3eeb.html</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
