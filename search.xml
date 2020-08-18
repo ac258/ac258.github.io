@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>遗憾！可能是最后一次想你了！</title>
+      <link href="/posts/685d.html"/>
+      <url>/posts/685d.html</url>
+      
+        <content type="html"><![CDATA[<hr><p>昨天，又梦到了你，</p><p>可是，我不再难过了</p><p>一段时间以来都是我自己不愿放过我自己</p><p>瘦了身体，颓了精神</p><p>等一个连头都不愿回的人</p><p>一直不敢拆开你给我送的第三个也是最后一个快递</p><p>我怕我一拆开我所有的幻想都会破灭</p><p>我害怕除了我的东西 ，再也找不到其他</p><p>今天，窗外大雨呼啸</p><p>我放下了</p><p>放过你也放过我自己</p><p>我决定有个了结</p><p>无论结果</p><p>所以</p><p>当然</p><p>我</p><p>拆开了快递</p><p>看了一遍又一遍</p><p>果然</p><p>哈哈哈</p><p>真可笑</p><p>我在期盼什么呢？！</p><p>往事随风</p><p>秋风绵绵大雨</p><p>这是你我之间最好的结果</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>本博客主要搭建参考大佬名单</title>
       <link href="/posts/914f.html"/>
       <url>/posts/914f.html</url>
